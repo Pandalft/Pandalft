@@ -1,5 +1,5 @@
-<h1 align="center">Hi 👋, I'm Hernán Sásyer <img height="40" src="<a href="https://emoji.gg/emoji/7953-pandalurk"><img src="https://cdn3.emoji.gg/emojis/7953-pandalurk.png" width="64px" height="64px" alt="PandaLurk"></a>"></h1>
-<h3 align="center">A passionate Python and Front-End (and a beginner designer) developer from Brazil</h3>
+<h1 align="center">Hi 👋, I'm Hernán Sásyer <img height="40" src="<a href="https://emoji.gg/emoji/7953-pandalurk"></h1>
+<h3 align="center">A passionate Python and Front-End (and a beginner designer) developer from Colombia</h3>
 
 - 🔭 I’m currently working on my **Python Course**
 
@@ -7,17 +7,18 @@
 
 - 👯 I’m looking to collaborate on **front-end and back-end projects**
 
-- 📫 How to reach me: **brantlauro@gmail.com**
+- 📫 How to reach me: **hernandsayerm@gmail.com**
 
 - ⚡ What I like to do: **I like so much reading, basketball and skateboarding...and coding of course**
 
 <h3 align="center">Connect with me:</h3>
 <div align="center">
 
-[![image](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/lauro_brant-1/)
-[![image](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/brantlauro/)
-[![image](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/brantlauro)
-[![image](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:produtor.brantlauro@gmail.com)
+[![image](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/hern%C3%A1n-david-s%C3%A1yer-medina-176a191b3)
+[![image](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/tpandalft/)
+[![image](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://x.com/Pandalft)
+[![image](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:produtor.hernandsayerm@gmail.com)
+[![image](https://dcbadge.limes.pink/api/shield/434105071043608586)]
   
 </div>
 
