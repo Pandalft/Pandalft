@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Lauro <img height="40" src="https://emoji.gg/assets/emoji/7333-parrotdance.gif"></h1>
+<h1 align="center">Hi 👋, I'm Hernán Sásyer <img height="40" src="<a href="https://emoji.gg/emoji/7953-pandalurk"><img src="https://cdn3.emoji.gg/emojis/7953-pandalurk.png" width="64px" height="64px" alt="PandaLurk"></a>"></h1>
 <h3 align="center">A passionate Python and Front-End (and a beginner designer) developer from Brazil</h3>
 
 - 🔭 I’m currently working on my **Python Course**
