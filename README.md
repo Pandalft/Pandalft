@@ -1,5 +1,10 @@
-<h1 align="center"><a href="https://ibb.co/N7tTnkH"><img src="https://i.ibb.co/HXBhpMk/Tech-Comp.png" alt="Tech-Comp" border="0"></a>
-  Hi 👋, I'm Hernán Sáyer <img height="40" src="<a href="https://emoji.gg/emoji/7953-pandalurk"></h1>
+<h1 align='center'>
+  <br>
+  <a![inspired by sakiyama](https://github.com/Pandalft/Pandalft/assets/92882663/40c49b6f-0423-4a0f-b7d9-5d2a486a1bfb)></a>
+  <br>
+  Hernán Sáyer
+  <br>
+</h1>
 
 <h3 align="center">A passionate Python and Front-End (and a beginner designer) developer from Colombia</h3>
 
