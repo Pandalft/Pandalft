@@ -1,7 +1,6 @@
 <h1 align='center'>
-  <br>![inspired by sakiyama](https://github.com/Pandalft/Pandalft/assets/92882663/bdd3fd92-f3b0-46ed-bd96-d20f4e9099df)
-
-  <a></a>
+  <br>
+  <img src="https://github.com/Pandalft/Pandalft/assets/92882663/bdd3fd92-f3b0-46ed-bd96-d20f4e9099df" alt="inspired by sakiyama" height="380" width="100%"">
   <br>
   Hernán Sáyer
   <br>
@@ -10,6 +9,8 @@
 <h3 align="center">A passionate Python and Front-End (and a beginner designer) developer from Colombia</h3>
 
 - 🔭 I’m currently working on my **Python Course**
+
+
 
 - 🌱 I’m currently learning **Python, HTML5 and CSS3**
 
