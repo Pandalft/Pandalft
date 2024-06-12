@@ -1,6 +1,7 @@
 <h1 align='center'>
-  <br>
-  <a![inspired by sakiyama](https://github.com/Pandalft/Pandalft/assets/92882663/40c49b6f-0423-4a0f-b7d9-5d2a486a1bfb)></a>
+  <br>![inspired by sakiyama](https://github.com/Pandalft/Pandalft/assets/92882663/bdd3fd92-f3b0-46ed-bd96-d20f4e9099df)
+
+  <a></a>
   <br>
   Hernán Sáyer
   <br>
